@@ -1,0 +1,10 @@
+=== INVENTORY REPORT ===
+Total Products: 6
+Available Products: 6
+
+KB001 - Keychron K2 Pro (৳10000.00) [Stock: 15]
+KB002 - Ducky One 3 (৳12000.00) [Stock: 10]
+KB003 - GMMK Pro (৳16500.00) [Stock: 7]
+KB004 - Logitech G Pro X (৳15000.00) [Stock: 12]
+KB005 - Drop ALT (৳19600.00) [Stock: 5]
+KB006 - RK (৳15600.00) [Stock: 12]

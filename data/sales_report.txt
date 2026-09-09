@@ -1,0 +1,5 @@
+=== SALES REPORT ===
+Total Orders: 1
+Total Revenue: ৳16500.00
+
+O0001 | Customer: C0001 | Total: ৳16500.00 | Date: 2025-11-19 17:18
