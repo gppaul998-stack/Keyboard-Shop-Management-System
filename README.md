@@ -21,4 +21,4 @@ Abstraction • Inheritance • Polymorphism • Encapsulation • Interfaces �
 ## Run
 Open the project in Eclipse or another Java IDE and run `src/Main.java`.
 
-The core application code has been kept intact and the repository structure is organized for portfolio presentation.
+The core application code is kept intact and the repository structure is organized for portfolio presentation.
