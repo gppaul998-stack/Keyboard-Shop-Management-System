@@ -1,24 +1,25 @@
 # Keyboard Shop Management System
 
-A Java-based keyboard shop management system developed as a CSE project.
+Java-based keyboard shop management system developed as a CSE project.
 
 ## Features
-- Product and keyboard management
+- Keyboard/product management
 - Customer management
-- Shopping cart and order processing
+- Shopping cart and checkout
 - Inventory management
-- Product search and purchase operations
-- CSV-based data persistence
+- Product search
+- Order processing and reports
+- CSV file persistence
 - Custom exception handling
 
 ## OOP Concepts
 Abstraction • Inheritance • Polymorphism • Encapsulation • Interfaces • Exception Handling • File I/O
 
-## Structure
-- `src/` — all Java source files, kept separately
-- `data/` — original CSV data and reports
+## Project Structure
+- `src/` — Java source code
+- `data/` — CSV data and reports
 
 ## Run
-Open the project in Eclipse or another Java IDE and run `src/Main.java`.
+Open in Eclipse or another Java IDE and run `src/Main.java`.
 
-The core application code is kept intact and the repository structure is organized for portfolio presentation.
+The core code is preserved; the repository is organized for portfolio presentation.
